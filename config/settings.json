@@ -1,0 +1,16 @@
+{
+  "source": "video",
+  "video_path": "",
+  "camera_index": 0,
+  "camera_resolution": "1280x720",
+  "device": "AUTO",
+  "confidence": 0.2,
+  "nms": 0.4,
+  "target_mode": "AUTO CENTER",
+  "tracking_algorithm": "ENHANCED",
+  "dead_zone": 0.2,
+  "smoothing": "MEDIUM",
+  "ned_simulation": true,
+  "pixel_control_scale": 0.1,
+  "auto_reacquire": true
+}

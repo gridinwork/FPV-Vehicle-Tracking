@@ -46,7 +46,7 @@ All screenshots supplied with Version 1 are included below.
 
 ![FPV tracking example 10](IMG/Screenshot_10.webp)
 
-The clean interface shown at the top is `Screenshot_5.png`.
+The clean interface shown at the top is `Screenshot_5.webp`.
 
 ## Main features
 
