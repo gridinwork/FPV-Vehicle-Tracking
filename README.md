@@ -1,10 +1,10 @@
+![Main interface](IMG/Screenshot_5.webp)
+
 # FPV Vehicle Tracking & Visual Flight Director Studio
 
 A local Windows computer-vision application for detecting, selecting and tracking vehicles in aerial / FPV video. The project combines a YOLOv4-tiny vehicle detector with target locking, reacquisition, motion smoothing, trajectory visualization, a virtual flight-director layer, recording and telemetry export.
 
 > **Important:** this repository is a computer-vision and control-logic simulation. It does **not** connect to or command a real aircraft. The PX4/MAVSDK backend is intentionally disabled in this version.
-
-![Main interface](IMG/Screenshot_5.webp)
 
 ## Project overview
 
